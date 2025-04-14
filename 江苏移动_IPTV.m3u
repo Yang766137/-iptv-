@@ -133,8 +133,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV8-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享4K
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16-4K
@@ -151,6 +149,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212275
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/江苏8K.png",江苏8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&amp;RTS=1674188624&amp;from=40&amp;popid=40&amp;hms_devid=2041&amp;prioritypopid=40&amp;vqe=3
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享4K
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/未知.png",未知
 http://[2409:8087:2004:20:2800:0:df6e:ec11]/wh7f454c46tw3939513710_-75405980/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&amp;RTS=1678666137&amp;from=40&amp;popid=40&amp;hms_devid=2153&amp;prioritypopid=40&amp;vqe=3
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png",CCTV8K超高清
