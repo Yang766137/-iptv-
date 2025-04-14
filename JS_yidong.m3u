@@ -137,6 +137,14 @@ http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1,tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="https://epg.v1.mk/logo/连云港新闻综合.png" group-title="江苏连云港",连云港新闻综合
+http://223.110.254.212:6610/cntv/live1/jslygxinwenzh/jslygxinwenzh/1.m3u8
+#EXTINF:-1,tvg-id="连云港公共频道" tvg-name="连云港公共频道" tvg-logo="https://epg.v1.mk/logo/连云港公共频道.png" group-title="江苏连云港",连云港公共频道
+http://223.110.254.207:6610/cntv/live1/jslyggonggongpd/jslyggonggongpd/1.m3u8
+#EXTINF:-1,tvg-id="东海电视台" tvg-name="东海电视台" tvg-logo="https://epg.v1.mk/logo/东海电视台.png" group-title="江苏连云港",东海新闻
+http://223.110.254.202:6610/cntv/live1/jsdonghaixinwen/jsdonghaixinwen/1.m3u8
+#EXTINF:-1,tvg-id="赣榆综合" tvg-name="赣榆综合" tvg-logo="https://epg.v1.mk/logo/赣榆综合.png" group-title="江苏连云港",赣榆综合
+http://223.110.254.205:6610/cntv/live1/HD-2500k-1080P-ganyutv/HD-2500k-1080P-ganyutv/1.m3u8
 #EXTINF:-1 group-title="江苏连云港" tvg-logo="https://epg.112114.xyz/logo/连云港公共.png",连云港公共高清
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw913656304_601285611/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8?icpid=3&amp;RTS=1663226999&amp;from=40&amp;popid=40&amp;hms_devid=2112&amp;prioritypopid=40&amp;vqe=3
 #EXTINF:-1 group-title="江苏连云港" tvg-logo="https://epg.112114.xyz/logo/连云港新闻综合.png",连云港新闻综合高清
@@ -543,14 +551,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1245367087_-983708624/ot
 http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1245367087_-983708624/ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8?icpid=4&amp;RTS=1664455691&amp;from=40&amp;popid=40&amp;hms_devid=2292&amp;prioritypopid=40&amp;vqe=3
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",45611
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw1131928239_2039612798/ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8?icpid=4&amp;RTS=1664455577&amp;from=40&amp;popid=40&amp;hms_devid=2291&amp;prioritypopid=40&amp;vqe=3
-#EXTINF:-1,tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="https://epg.v1.mk/logo/连云港新闻综合.png" group-title="江苏连云港",连云港新闻综合
-http://223.110.254.212:6610/cntv/live1/jslygxinwenzh/jslygxinwenzh/1.m3u8
-#EXTINF:-1,tvg-id="连云港公共频道" tvg-name="连云港公共频道" tvg-logo="https://epg.v1.mk/logo/连云港公共频道.png" group-title="江苏连云港",连云港公共频道
-http://223.110.254.207:6610/cntv/live1/jslyggonggongpd/jslyggonggongpd/1.m3u8
-#EXTINF:-1,tvg-id="东海电视台" tvg-name="东海电视台" tvg-logo="https://epg.v1.mk/logo/东海电视台.png" group-title="江苏连云港",东海新闻
-http://223.110.254.202:6610/cntv/live1/jsdonghaixinwen/jsdonghaixinwen/1.m3u8
-#EXTINF:-1,tvg-id="赣榆综合" tvg-name="赣榆综合" tvg-logo="https://epg.v1.mk/logo/赣榆综合.png" group-title="江苏连云港",赣榆综合
-http://223.110.254.205:6610/cntv/live1/HD-2500k-1080P-ganyutv/HD-2500k-1080P-ganyutv/1.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏",江苏卫视
 http://223.110.254.202:6610/cntv/live1/H265-8000k-1080P-jiangsustv/H265-8000k-1080P-jiangsustv/H265-8000k-1080P-jiangsustv/1.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
