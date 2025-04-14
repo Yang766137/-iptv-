@@ -60,8 +60,6 @@ http://223.110.254.210:6610/cntv/live1/n-cctv-9/n-cctv-9/1.m3u8
 #EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://epg.v1.mk/logo/CGTN英语.png" group-title="央视",CGTN英语新闻
 http://223.110.254.204:6610/cntv/live1/cctvennews/cctvennews/1.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
-http://112.25.7.170/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227462/index.m3u8?icpid=3&amp;RTS=1663227683&amp;from=40&amp;popid=40&amp;hms_devid=2111&amp;prioritypopid=40&amp;vqe=3
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&amp;RTS=1663227683&amp;from=40&amp;popid=40&amp;hms_devid=2111&amp;prioritypopid=40&amp;vqe=3
