@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 
-#排序
+
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227462/index.m3u8?icpid=3&amp;RTS=1663227683&amp;from=40&amp;popid=40&amp;hms_devid=2111&amp;prioritypopid=40&amp;vqe=3
 #EXTINF:-1 group-title="江苏连云港" tvg-logo="https://epg.112114.xyz/logo/连云港公共.png",连云港公共高清
@@ -240,7 +240,9 @@ http://223.110.228.2/ott.js.chinamobile.com/PLTV/4/224/3221227771/index.m3u8
 #EXTINF:-1,tvg-id="ARABICRADIO&TVVARIETY" tvg-name="ARABICRADIO&TVVARIETY" tvg-logo="https://epg.v1.mk/logo/ARABICRADIO&TVVARIETY.png" group-title="其他",bili国创
 http://223.110.254.199:6610/gitv/live1/GITV-JS-4/GITV-JS-4/1.m3u8
 
-#2
+
+
+
 
 #EXTINF:-1,tvg-id="南京影视" tvg-name="南京影视" tvg-logo="https://epg.v1.mk/logo/南京影视.png" group-title="江苏",南京影视
 http://223.110.234.24/ott.js.chinamobile.com/PLTV/3/224/3221227719/index.m3u8
@@ -562,7 +564,7 @@ http://223.110.235.38/ott.js.chinamobile.com/PLTV/3/224/3221227819/index.m3u8
 http://223.110.235.38/ott.js.chinamobile.com/PLTV/3/224/3221227816/index.m3u8
 
 
-#ipv6
+
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227462/index.m3u8?icpid=3&amp;RTS=1663227683&amp;from=40&amp;popid=40&amp;hms_devid=2111&amp;prioritypopid=40&amp;vqe=3
