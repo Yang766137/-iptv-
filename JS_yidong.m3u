@@ -12,6 +12,7 @@ http://223.110.254.146:6610/cntv/live1/n-jinyingkaton/n-jinyingkaton/SD-4000k-57
 #EXTINF:-1 group-title="NEWTV" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品萌宠.png",NEWTV精品萌宠
 http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw1536712487_1033271394/ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8?icpid=3&amp;RTS=1674385947&amp;from=40&amp;popid=40&amp;hms_devid=2290&amp;prioritypopid=40&amp;vqe=3
 #EXTINF:-1,tvg-id="NEWTV黑莓动画" tvg-name="NEWTV黑莓动画" tvg-logo="https://epg.v1.mk/logo/NEWTV黑莓动画.png" group-title="卡通",黑莓动画（付费）
+http://223.110.254.203:6610/cntv/live1/donghuawg/donghuawg/1.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 
