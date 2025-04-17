@@ -250,185 +250,185 @@ http://223.110.228.2/ott.js.chinamobile.com/PLTV/4/224/3221227771/index.m3u8
 #EXTINF:-1,tvg-id="ARABICRADIO&TVVARIETY" tvg-name="ARABICRADIO&TVVARIETY" tvg-logo="https://epg.v1.mk/logo/ARABICRADIO&TVVARIETY.png" group-title="其他未知",居家健身
 http://223.110.254.199:6610/gitv/live1/GITV-JS-4/GITV-JS-4/1.m3u8
 
-#EXTINF: group-title="其他未知",咪咕音乐
+#EXTINF:-1 group-title="其他未知",咪咕音乐
 http://223.110.254.199:6610/gitv/live1/GITV-JS-5/1.m3u8
-#EXTINF: group-title="其他未知",高楚乔传
+#EXTINF:-1 group-title="其他未知",高楚乔传
 http://223.110.254.199:6610/gitv/live1/GITV-JS-26/1.m3u8
-#EXTINF: group-title="其他未知",高分电影
+#EXTINF:-1 group-title="其他未知",高分电影
 http://223.110.254.199:6610/gitv/live1/GITV-JS-14/1.m3u8
-#EXTINF: group-title="其他未知",邪恶与疯狂
+#EXTINF:-1 group-title="其他未知",邪恶与疯狂
 http://223.110.254.199:6610/gitv/live1/GITV-JS-46/1.m3u8
-#EXTINF: group-title="其他未知",来自星星的你
+#EXTINF:-1 group-title="其他未知",来自星星的你
 http://223.110.254.199:6610/gitv/live1/GITV-JS-47/1.m3u8
-#EXTINF: group-title="其他未知",哦我的鬼神大人
+#EXTINF:-1 group-title="其他未知",哦我的鬼神大人
 http://223.110.254.199:6610/gitv/live1/GITV-JS-48/1.m3u8
-#EXTINF: group-title="其他未知",太阳的后裔
+#EXTINF:-1 group-title="其他未知",太阳的后裔
 http://223.110.254.199:6610/gitv/live1/GITV-JS-49/1.m3u8
-#EXTINF: group-title="其他未知",请回答 1988
+#EXTINF:-1 group-title="其他未知",请回答 1988
 http://223.110.254.199:6610/gitv/live1/GITV-JS-50/1.m3u8
-#EXTINF: group-title="其他未知",梦中的那片海
+#EXTINF:-1 group-title="其他未知",梦中的那片海
 http://223.110.254.199:6610/gitv/live1/mengzhongdnph/1.m3u8
-#EXTINF: group-title="其他未知",猎冰
+#EXTINF:-1 group-title="其他未知",猎冰
 http://223.110.254.199:6610/gitv/live1/cos-liebing/1.m3u8
-#EXTINF: group-title="其他未知",永安梦
+#EXTINF:-1 group-title="其他未知",永安梦
 http://223.110.254.199:6610/gitv/live1/cos-yonganmeng/1.m3u8
-#EXTINF: group-title="其他未知",烟火人家
+#EXTINF:-1 group-title="其他未知",烟火人家
 http://223.110.254.199:6610/gitv/live1/cos-yanhuorenjia/1.m3u8
-#EXTINF: group-title="其他未知",繁花
+#EXTINF:-1 group-title="其他未知",繁花
 http://223.110.254.199:6610/gitv/live1/fanhua/1.m3u8
-#EXTINF: group-title="其他未知",南来北往
+#EXTINF:-1 group-title="其他未知",南来北往
 http://223.110.254.199:6610/gitv/live1/GITV-JS-39/1.m3u8
-#EXTINF: group-title="其他未知",狗剩快跑
+#EXTINF:-1 group-title="其他未知",狗剩快跑
 http://223.110.254.199:6610/gitv/live1/GITV-JS-40/1.m3u8
-#EXTINF: group-title="其他未知",狂飙
+#EXTINF:-1 group-title="其他未知",狂飙
 http://223.110.254.199:6610/gitv/live1/GITV-JS-41/1.m3u8
-#EXTINF: group-title="其他未知",人世间
+#EXTINF:-1 group-title="其他未知",人世间
 http://223.110.254.199:6610/gitv/live1/GITV-JS-42/1.m3u8
-#EXTINF: group-title="其他未知",大江大河
+#EXTINF:-1 group-title="其他未知",大江大河
 http://223.110.254.199:6610/gitv/live1/GITV-JS-43/1.m3u8
-#EXTINF: group-title="其他未知",山海情
+#EXTINF:-1 group-title="其他未知",山海情
 http://223.110.254.199:6610/gitv/live1/GITV-JS-44/1.m3u8
 
 
-#EXTINF: group-title="其他未知",06[1920x1080]
+#EXTINF:-1 group-title="其他未知",06[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-5/1.m3u8
-#EXTINF: group-title="其他未知",17[1920x1080]
+#EXTINF:-1 group-title="其他未知",17[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-16/1.m3u8
-#EXTINF: group-title="其他未知",03[1920x1040]
+#EXTINF:-1 group-title="其他未知",03[1920x1040]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-2/1.m3u8
-#EXTINF: group-title="其他未知",05[1920x1080]
+#EXTINF:-1 group-title="其他未知",05[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-4/1.m3u8
-#EXTINF: group-title="其他未知",27[1920x1080]
+#EXTINF:-1 group-title="其他未知",27[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-26/1.m3u8
-#EXTINF: group-title="其他未知",11[1920x1080]
+#EXTINF:-1 group-title="其他未知",11[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-10/1.m3u8
-#EXTINF: group-title="其他未知",12[1920x1080]
+#EXTINF:-1 group-title="其他未知",12[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-11/1.m3u8
-#EXTINF: group-title="其他未知",14[1920x1080]
+#EXTINF:-1 group-title="其他未知",14[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-13/1.m3u8
-#EXTINF: group-title="其他未知",15[1920x1080]
+#EXTINF:-1 group-title="其他未知",15[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-14/1.m3u8
-#EXTINF: group-title="其他未知",16[1920x1080]
+#EXTINF:-1 group-title="其他未知",16[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-15/1.m3u8
-#EXTINF: group-title="其他未知",29[1920x1080]
+#EXTINF:-1 group-title="其他未知",29[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-28/1.m3u8
-#EXTINF: group-title="其他未知",08[1440x1080]
+#EXTINF:-1 group-title="其他未知",08[1440x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-7/1.m3u8
-#EXTINF: group-title="其他未知",31[1920x1080]
+#EXTINF:-1 group-title="其他未知",31[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-30/1.m3u8
-#EXTINF: group-title="其他未知",26[1920x1080]
+#EXTINF:-1 group-title="其他未知",26[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-25/1.m3u8
-#EXTINF: group-title="其他未知",07[1920x1080]
+#EXTINF:-1 group-title="其他未知",07[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-6/1.m3u8
-#EXTINF: group-title="其他未知",39[1920x1080]
+#EXTINF:-1 group-title="其他未知",39[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-38/1.m3u8
-#EXTINF: group-title="其他未知",38[1920x1080]
+#EXTINF:-1 group-title="其他未知",38[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-37/1.m3u8
-#EXTINF: group-title="其他未知",10[1920x1080]
+#EXTINF:-1 group-title="其他未知",10[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-9/1.m3u8
-#EXTINF: group-title="其他未知",28[1920x1080]
+#EXTINF:-1 group-title="其他未知",28[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-27/1.m3u8
-#EXTINF: group-title="其他未知",13[1920x1080]
+#EXTINF:-1 group-title="其他未知",13[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-12/1.m3u8
-#EXTINF: group-title="其他未知",04[1920x1080]
+#EXTINF:-1 group-title="其他未知",04[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-3/1.m3u8
-#EXTINF: group-title="其他未知",24[1280x720]
+#EXTINF:-1 group-title="其他未知",24[1280x720]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-23/1.m3u8
-#EXTINF: group-title="其他未知",18[1920x1080]
+#EXTINF:-1 group-title="其他未知",18[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-17/1.m3u8
-#EXTINF: group-title="其他未知",19[1920x1080]
+#EXTINF:-1 group-title="其他未知",19[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-18/1.m3u8
-#EXTINF: group-title="其他未知",25[1920x1080]
+#EXTINF:-1 group-title="其他未知",25[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-24/1.m3u8
-#EXTINF: group-title="其他未知",02[1920x1080]
+#EXTINF:-1 group-title="其他未知",02[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-1/1.m3u8
-#EXTINF: group-title="其他未知",30[1920x1080]
+#EXTINF:-1 group-title="其他未知",30[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-29/1.m3u8
-#EXTINF: group-title="其他未知",21[624x896]
+#EXTINF:-1 group-title="其他未知",21[624x896]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-20/1.m3u8
-#EXTINF: group-title="其他未知",37[3840x2160]
+#EXTINF:-1 group-title="其他未知",37[3840x2160]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-36/1.m3u8
-#EXTINF: group-title="其他未知",22[1920x1080]
+#EXTINF:-1 group-title="其他未知",22[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-21/1.m3u8
-#EXTINF: group-title="其他未知",23[1920x1080]
+#EXTINF:-1 group-title="其他未知",23[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-22/1.m3u8
-#EXTINF: group-title="其他未知",34[1920x1080]
+#EXTINF:-1 group-title="其他未知",34[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-33/1.m3u8
-#EXTINF: group-title="其他未知",35[1920x1080]
+#EXTINF:-1 group-title="其他未知",35[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-34/1.m3u8
-#EXTINF: group-title="其他未知",36[1920x1080]
+#EXTINF:-1 group-title="其他未知",36[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-35/1.m3u8
-#EXTINF: group-title="其他未知",60[1920x1080]
+#EXTINF:-1 group-title="其他未知",60[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-59/1.m3u8
-#EXTINF: group-title="其他未知",57[1920x1080]
+#EXTINF:-1 group-title="其他未知",57[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-56/1.m3u8
-#EXTINF: group-title="其他未知",33[1280x720]
+#EXTINF:-1 group-title="其他未知",33[1280x720]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-32/1.m3u8
-#EXTINF: group-title="其他未知",32[1920x1080]
+#EXTINF:-1 group-title="其他未知",32[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-31/1.m3u8
-#EXTINF: group-title="其他未知",61[1920x1080]
+#EXTINF:-1 group-title="其他未知",61[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-60/1.m3u8
-#EXTINF: group-title="其他未知",59[1920x1080]
+#EXTINF:-1 group-title="其他未知",59[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-58/1.m3u8
-#EXTINF: group-title="其他未知",55[1920x1080]
+#EXTINF:-1 group-title="其他未知",55[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-54/1.m3u8
-#EXTINF: group-title="其他未知",54[1920x1080]
+#EXTINF:-1 group-title="其他未知",54[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-53/1.m3u8
-#EXTINF: group-title="其他未知",51[1920x1080]
+#EXTINF:-1 group-title="其他未知",51[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-50/1.m3u8
-#EXTINF: group-title="其他未知",58[1920x1080]
+#EXTINF:-1 group-title="其他未知",58[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-57/1.m3u8
-#EXTINF: group-title="其他未知",20[1920x1080]
+#EXTINF:-1 group-title="其他未知",20[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-19/1.m3u8
-#EXTINF: group-title="其他未知",50[1920x1080]
+#EXTINF:-1 group-title="其他未知",50[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-49/1.m3u8
-#EXTINF: group-title="其他未知",56[1920x1080]
+#EXTINF:-1 group-title="其他未知",56[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-55/1.m3u8
-#EXTINF: group-title="其他未知",53[1920x1080]
+#EXTINF:-1 group-title="其他未知",53[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-52/1.m3u8
-#EXTINF: group-title="其他未知",45[1920x1080]
+#EXTINF:-1 group-title="其他未知",45[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-44/1.m3u8
-#EXTINF: group-title="其他未知",46[1920x1080]
+#EXTINF:-1 group-title="其他未知",46[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-45/1.m3u8
-#EXTINF: group-title="其他未知",48[1920x1080]
+#EXTINF:-1 group-title="其他未知",48[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-47/1.m3u8
-#EXTINF: group-title="其他未知",43[1920x1080]
+#EXTINF:-1 group-title="其他未知",43[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-42/1.m3u8
-#EXTINF: group-title="其他未知",49[1280x720]
+#EXTINF:-1 group-title="其他未知",49[1280x720]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-48/1.m3u8
-#EXTINF: group-title="其他未知",52[1920x1080]
+#EXTINF:-1 group-title="其他未知",52[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-51/1.m3u8
-#EXTINF: group-title="其他未知",44[3840x1448]
+#EXTINF:-1 group-title="其他未知",44[3840x1448]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-43/1.m3u8
-#EXTINF: group-title="其他未知",47[1920x1080]
+#EXTINF:-1 group-title="其他未知",47[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-46/1.m3u8
-#EXTINF: group-title="其他未知",40[1920x1080]
+#EXTINF:-1 group-title="其他未知",40[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-39/1.m3u8
-#EXTINF: group-title="其他未知",62[1920x1080]
+#EXTINF:-1 group-title="其他未知",62[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-61/1.m3u8
-#EXTINF: group-title="其他未知",41[1920x1080]
+#EXTINF:-1 group-title="其他未知",41[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-40/1.m3u8
-#EXTINF: group-title="其他未知",71[1920x1080]
+#EXTINF:-1 group-title="其他未知",71[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-70/1.m3u8
-#EXTINF: group-title="其他未知",72[1920x1080]
+#EXTINF:-1 group-title="其他未知",72[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-71/1.m3u8
-#EXTINF: group-title="其他未知",70[1920x1080]
+#EXTINF:-1 group-title="其他未知",70[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-69/1.m3u8
-#EXTINF: group-title="其他未知",69[1920x1080]
+#EXTINF:-1 group-title="其他未知",69[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-68/1.m3u8
-#EXTINF: group-title="其他未知",68[1920x1080]
+#EXTINF:-1 group-title="其他未知",68[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-67/1.m3u8
-#EXTINF: group-title="其他未知",67[1920x1080]
+#EXTINF:-1 group-title="其他未知",67[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-66/1.m3u8
-#EXTINF: group-title="其他未知",66[1920x1080]
+#EXTINF:-1 group-title="其他未知",66[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-65/1.m3u8
-#EXTINF: group-title="其他未知",42[1920x1080]
+#EXTINF:-1 group-title="其他未知",42[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-41/1.m3u8
-#EXTINF: group-title="其他未知",65[1920x1080]
+#EXTINF:-1 group-title="其他未知",65[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-64/1.m3u8
-#EXTINF: group-title="其他未知",64[1920x1080]
+#EXTINF:-1 group-title="其他未知",64[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-63/1.m3u8
-#EXTINF: group-title="其他未知",63[1920x1080]
+#EXTINF:-1 group-title="其他未知",63[1920x1080]
 http://223.110.254.199:6610/gitv/live1/GITV-JS-62/1.m3u8
 
 
